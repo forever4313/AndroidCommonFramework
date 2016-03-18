@@ -1,1 +1,1 @@
-include ':app',":mvp",":mvp-common"
+include ':app', ':app-common-lib', ":mvp-common-lib"
